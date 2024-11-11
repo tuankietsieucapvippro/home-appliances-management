@@ -1,0 +1,52 @@
+﻿@model DoGiaDung_TuanKiet.Models.Mau
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <h2>Bạn có chắc chắn muốn xóa màu này?</h2>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-dark" />
+            <a href="@Url.Action("Index")" class="btn btn-primary">Quay lại</a>
+        </div>
+    }
+</div>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dd>
+            <img src="~/Image/@Model.Anh" alt="Hình ảnh" style="max-width: 150px; max-height: 150px;border:1px solid #000;" />
+        </dd>
+        <dt>
+            Tên màu
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenMau)
+        </dd>
+        <dt>
+            Mã màu
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaMau)
+        </dd>
+        <dt>
+            Ảnh
+        </dt>
+
+
+
+    </dl>
+
+    
+</div>

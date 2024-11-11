@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c161ef799e934b1faed348311d6f94f2" Name="Diagram1">
+        <EntityTypeShape EntityType="QLDoGiaDung_TuanKietModel.LoaiSanPham" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLDoGiaDung_TuanKietModel.Mau" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLDoGiaDung_TuanKietModel.NhaSanXuat" Width="1.5" PointX="5.875" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLDoGiaDung_TuanKietModel.SanPham" Width="1.5" PointX="3.375" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLDoGiaDung_TuanKietModel.sysdiagram" Width="1.5" PointX="8.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLDoGiaDung_TuanKietModel.XuatXu" Width="1.5" PointX="6" PointY="3.875" IsExpanded="true" />
+        <AssociationConnector Association="QLDoGiaDung_TuanKietModel.FK_SanPham_LoaiSanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QLDoGiaDung_TuanKietModel.FK_SanPham_Mau" ManuallyRouted="false" />
+        <AssociationConnector Association="QLDoGiaDung_TuanKietModel.FK_SanPham_NhaSanXuat" ManuallyRouted="false" />
+        <AssociationConnector Association="QLDoGiaDung_TuanKietModel.FK_SanPham_XuatXu" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

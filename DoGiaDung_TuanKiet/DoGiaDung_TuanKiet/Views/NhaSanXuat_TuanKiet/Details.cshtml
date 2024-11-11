@@ -1,0 +1,51 @@
+﻿@model DoGiaDung_TuanKiet.Models.NhaSanXuat
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <h2>Chi tiết thông tin nhà sản xuất</h2>
+    <p>
+        @Html.ActionLink("Sửa", "Edit", new { id = Model.MaNhaSanXuat }, new { @class = "btn btn-danger" })
+        @Html.ActionLink("Quay lại", "Index", null, new { @class = "btn btn-primary" })
+    </p>
+</div>
+
+<div>
+   
+    <hr />
+    <dl class="dl-horizontal">
+        
+
+        <dd>
+            <img src="~/Image/@Model.Anh" alt="Hình ảnh" style="max-width: 150px; max-height: 150px; border: 1px solid #000;" />
+        </dd>
+        <dt>
+            Tên nhà sản xuất
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenNhaSanXuat)
+        </dd>
+        <dt>
+            Mã nhà sản xuất
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaNhaSanXuat)
+        </dd>
+
+
+        <dt>
+            Ghi chú
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GhiChu)
+        </dd>
+
+    </dl>
+</div>

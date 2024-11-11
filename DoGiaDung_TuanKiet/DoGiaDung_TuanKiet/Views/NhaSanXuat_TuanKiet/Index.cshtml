@@ -1,0 +1,62 @@
+﻿@model IEnumerable<DoGiaDung_TuanKiet.Models.NhaSanXuat>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <h2>Danh sách các nhà sản xuất</h2>
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div id="successAlert" class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+        <script>
+    $(document).ready(function () {
+        // Ẩn thông báo sau 5 giây
+        setTimeout(function () {
+            $("#successAlert").fadeOut();
+        }, 5000); // Thời gian đặt là 5 giây
+    });
+        </script>
+    }
+    <p><a href="@Url.Action("Create")" class="btn btn-warning">Thêm nhà sản xuất mới</a></p>
+</div>
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            Logo
+        </th>
+        <th>
+            Tên nhà sản xuất
+        </th>
+        
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img src="~/Image/@item.Anh" alt="Hình ảnh" style="max-width: 100px; max-height: 100px;" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenNhaSanXuat)
+            </td>
+
+
+            <td style="text-align:right">
+                @Html.ActionLink("Sửa", "Edit", new { id = item.MaNhaSanXuat }, new { @class = "btn btn-danger" })
+                @Html.ActionLink("Chi tiết", "Details", new { id = item.MaNhaSanXuat }, new { @class = "btn btn-success" })
+                @Html.ActionLink("Xóa", "Delete", new { id = item.MaNhaSanXuat }, new { @class = "btn btn-dark" })
+            </td>
+        </tr>
+    }
+
+</table>

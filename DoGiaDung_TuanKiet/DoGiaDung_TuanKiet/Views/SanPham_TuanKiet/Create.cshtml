@@ -1,0 +1,140 @@
+﻿@model DoGiaDung_TuanKiet.Models.SanPham
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+            <h2>Thêm sản phẩm mới</h2>
+            <p>
+                <input type="submit" value="Thêm" class="btn btn-warning" />
+
+                <a href="@Url.Action("Index")" class="btn btn-primary">Quay lại</a>
+            </p>
+        </div>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            Mã sản phẩm (bắt buộc)
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.MaSanPham, new { @class = "form-control" ,@rows=1 })
+                @Html.ValidationMessageFor(model => model.MaSanPham, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            Tên sản phẩm
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.TenSanPham,  new { @class = "form-control" ,@rows=1 })
+                @Html.ValidationMessageFor(model => model.TenSanPham, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            Giá tiền(đ)
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.GiaTien,  new { @class = "form-control" ,@rows=1 })
+                @Html.ValidationMessageFor(model => model.GiaTien, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            Loại sản phẩm
+            <div class="col-md-10">
+                @Html.DropDownList("MaLoaiSanPham", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.MaLoaiSanPham, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            Nhà sản xuất
+            <div class="col-md-10">
+                @Html.DropDownList("MaNhaSanXuat", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.MaNhaSanXuat, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            Số lượng
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.SoLuong, new { @class = "form-control" ,@rows=1 })
+                @Html.ValidationMessageFor(model => model.SoLuong, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            Ảnh
+            <div class="col-md-10">
+                <input type="file" name="Anh" id="Anh" />
+                @Html.ValidationMessageFor(model => model.Anh, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            Ghi chú
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.GhiChu, new { @class = "form-control" ,@rows=10 })
+                @Html.ValidationMessageFor(model => model.GhiChu, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            Kích thước và khối lượng
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.KichThuocKhoiLuong,  new { @class = "form-control", @rows=1 })
+                @Html.ValidationMessageFor(model => model.KichThuocKhoiLuong, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+           Năm sản xuất
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.NamSanXuat, new { @class = "form-control" ,@rows=1 })
+                @Html.ValidationMessageFor(model => model.NamSanXuat, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+           Màu
+            <div class="col-md-10">
+                @Html.DropDownList("MaMau", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.MaMau, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            Xuất xứ
+            <div class="col-md-10">
+                @Html.DropDownList("MaXuatXu", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.MaXuatXu, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            Chất liệu
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.ChatLieu, new { @class = "form-control",@rows=1 })
+                @Html.ValidationMessageFor(model => model.ChatLieu, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        
+    </div>
+}
+
+
+<style>
+    .input, select, textarea {
+        max-width: 1000px;
+    }
+</style> 

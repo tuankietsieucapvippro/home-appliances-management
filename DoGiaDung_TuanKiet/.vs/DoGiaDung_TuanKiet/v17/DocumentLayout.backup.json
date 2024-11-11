@@ -1,0 +1,716 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|d:\\tuankiet\\dogiadung_tuankiet (1)\\dogiadung_tuankiet\\dogiadung_tuankiet\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\sanpham_tuankiet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\sanpham_tuankiet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|d:\\tuankiet\\dogiadung_tuankiet (1)\\dogiadung_tuankiet\\dogiadung_tuankiet\\controllers\\sanpham_tuankietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\controllers\\sanpham_tuankietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\controllers\\nhasanxuat_tuankietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\controllers\\nhasanxuat_tuankietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\controllers\\mau_tuankietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\controllers\\mau_tuankietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\controllers\\loaisanpham_tuankietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\controllers\\loaisanpham_tuankietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\xuatxu_tuankiet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\xuatxu_tuankiet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\sanpham_tuankiet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\sanpham_tuankiet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\sanpham_tuankiet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\sanpham_tuankiet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\xuatxu_tuankiet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\xuatxu_tuankiet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\xuatxu_tuankiet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\xuatxu_tuankiet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\xuatxu_tuankiet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\xuatxu_tuankiet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\nhasanxuat_tuankiet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\nhasanxuat_tuankiet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\nhasanxuat_tuankiet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\nhasanxuat_tuankiet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\mau_tuankiet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\mau_tuankiet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\loaisanpham_tuankiet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\loaisanpham_tuankiet\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\nhasanxuat_tuankiet\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\nhasanxuat_tuankiet\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\mau_tuankiet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\mau_tuankiet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\loaisanpham_tuankiet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\loaisanpham_tuankiet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\mau_tuankiet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\mau_tuankiet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\loaisanpham_tuankiet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\loaisanpham_tuankiet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\sanpham_tuankiet\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\sanpham_tuankiet\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\controllers\\xuatxu_tuankietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\controllers\\xuatxu_tuankietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\nhasanxuat_tuankiet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\nhasanxuat_tuankiet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\loaisanpham_tuankiet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\loaisanpham_tuankiet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\models\\dogiadung_tuankietmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\models\\dogiadung_tuankietmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\sanpham_tuankiet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\sanpham_tuankiet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\loaisanpham_tuankiet\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\loaisanpham_tuankiet\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\mau_tuankiet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\mau_tuankiet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\mau_tuankiet\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\mau_tuankiet\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\nhasanxuat_tuankiet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\nhasanxuat_tuankiet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\xuatxu_tuankiet\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\xuatxu_tuankiet\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\models\\dogiadung_tuankietmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\models\\dogiadung_tuankietmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\dogiadung_tuankiet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{003E4F9D-C59C-4F63-AF21-B0750D6D2021}|DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet.csproj|solutionrelative:dogiadung_tuankiet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Web.config",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Web.config",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Web.config",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Web.config",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAD8AAABUAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-10T05:47:46.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Index.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Index.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:09.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:06:09.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPham_TuanKietController.cs",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\SanPham_TuanKietController.cs",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Controllers\\SanPham_TuanKietController.cs",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\SanPham_TuanKietController.cs",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Controllers\\SanPham_TuanKietController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAkwOEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:06:09.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Index.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Index.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaiSanPham_TuanKietController.cs",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\LoaiSanPham_TuanKietController.cs",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Controllers\\LoaiSanPham_TuanKietController.cs",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\LoaiSanPham_TuanKietController.cs",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Controllers\\LoaiSanPham_TuanKietController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAMAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:06:10.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mau_TuanKietController.cs",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\Mau_TuanKietController.cs",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Controllers\\Mau_TuanKietController.cs",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\Mau_TuanKietController.cs",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Controllers\\Mau_TuanKietController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:06:10.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhaSanXuat_TuanKietController.cs",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\NhaSanXuat_TuanKietController.cs",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Controllers\\NhaSanXuat_TuanKietController.cs",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\NhaSanXuat_TuanKietController.cs",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Controllers\\NhaSanXuat_TuanKietController.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAowLYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:06:10.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Edit.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Edit.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Edit.cshtml",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAJUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Delete.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Delete.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Delete.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Edit.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Edit.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Edit.cshtml",
+              "ViewState": "AgIAACYAAABgZmZmZmYEwEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Create.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Create.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Create.cshtml",
+              "ViewState": "AgIAABUAAABAZmZmZiYgwCMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Create.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Create.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Create.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAH0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Edit.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Edit.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Edit.cshtml",
+              "ViewState": "AgIAAC4AAAAg/////38pwDoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Details.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Details.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Details.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Create.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Create.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAmJmZmRkWwCIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Edit.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Edit.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Edit.cshtml",
+              "ViewState": "AgIAAAUAAADgmpmZmVkqwCkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Edit.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Edit.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvzoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Create.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Create.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Create.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Create.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Create.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Index.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Index.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Delete.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Delete.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Content\\Site.css",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Content\\Site.css",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Content\\Site.css",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-10T05:06:10.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Details.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Details.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Details.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAzczMzMwnwCkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "XuatXu_TuanKietController.cs",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\XuatXu_TuanKietController.cs",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Controllers\\XuatXu_TuanKietController.cs",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\XuatXu_TuanKietController.cs",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Controllers\\XuatXu_TuanKietController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwFAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:06:10.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:06:10.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Index.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Index.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Index.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Index.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DoGiaDung_TuanKietModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Models\\DoGiaDung_TuanKietModel.edmx",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Models\\DoGiaDung_TuanKietModel.edmx",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Models\\DoGiaDung_TuanKietModel.edmx [Diagram1]",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Models\\DoGiaDung_TuanKietModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-10T05:06:10.361Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Delete.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Delete.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\SanPham_TuanKiet\\Delete.cshtml",
+              "ViewState": "AgIAABQAAACANDMzM3MvwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Details.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Details.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Details.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\LoaiSanPham_TuanKiet\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Delete.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Delete.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Details.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Details.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Details.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\Mau_TuanKiet\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Delete.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Delete.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\NhaSanXuat_TuanKiet\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Details.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Details.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Details.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\XuatXu_TuanKiet\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\index.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\index.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\index.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Models\\SanPham.cs",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Models\\SanPham.cs",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Models\\SanPham.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:06:10.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DoGiaDung_TuanKietModel.cs",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Models\\DoGiaDung_TuanKietModel.cs",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Models\\DoGiaDung_TuanKietModel.cs",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Models\\DoGiaDung_TuanKietModel.cs",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Models\\DoGiaDung_TuanKietModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:06:10.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoGiaDung_TuanKiet\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\TuanKiet\\DoGiaDung_TuanKiet (1)\\DoGiaDung_TuanKiet\\DoGiaDung_TuanKiet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DoGiaDung_TuanKiet\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:06:10.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

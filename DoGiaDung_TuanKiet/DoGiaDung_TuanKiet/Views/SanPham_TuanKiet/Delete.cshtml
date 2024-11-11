@@ -1,0 +1,134 @@
+﻿@model DoGiaDung_TuanKiet.Models.SanPham
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <h2>Bạn có chắc chắn muốn xóa sản phẩm này?</h2>
+    
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Xóa" class="btn btn-dark" />
+                <a href="@Url.Action("Index")" class="btn btn-primary">Quay lại</a>
+            </div>
+        }
+    
+</div>
+
+<div>
+
+    <hr />
+    <div style="display: flex; align-items: flex-start;">
+        <div style="flex: 2; padding-right: 20px;">
+            <dl class="dl-horizontal">
+                <dt>
+                    Tên sản phẩm
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.TenSanPham)
+                </dd>
+                <dt>
+                    Mã sản phẩm
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.MaSanPham)
+                </dd>
+                <dt>
+                    Giá tiền(đ)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.GiaTien)
+                </dd>
+
+                <dt>
+                    Số lượng
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.SoLuong)
+                </dd>
+
+
+
+                <dt>
+                    Ghi chú
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.GhiChu)
+                </dd>
+
+                <dt>
+                    Kích thước và khối lượng
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.KichThuocKhoiLuong)
+                </dd>
+
+                <dt>
+                    Năm sản xuất
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.NamSanXuat)
+                </dd>
+
+                <dt>
+                    Chất liệu
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.ChatLieu)
+                </dd>
+
+                <dt>
+                    Loại sản phẩm
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.LoaiSanPham.TenLoaiSanPham)
+                </dd>
+
+                <dt>
+                    Màu
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Mau.TenMau)
+                </dd>
+
+                <dt>
+                    Nhà sản xuất
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.NhaSanXuat.TenNhaSanXuat)
+                </dd>
+
+                <dt>
+                    Xuất xứ
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.XuatXu.TenXuatXu)
+                </dd>
+
+            </dl>
+        </div>
+        <div style="flex: 1;">
+            <img src="~/Image/@Model.Anh" alt="Hình ảnh" style="max-width: 500px; max-height: 500px; border: 1px solid #000;" />
+        </div>
+    </div>
+
+    
+</div>

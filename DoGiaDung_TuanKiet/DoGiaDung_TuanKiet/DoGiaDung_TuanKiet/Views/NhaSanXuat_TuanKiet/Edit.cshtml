@@ -1,0 +1,72 @@
+﻿@model DoGiaDung_TuanKiet.Models.NhaSanXuat
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h2>Sửa thông tin nhà sản xuất</h2>
+        <p>
+            <input type="submit" value="Lưu" class="btn btn-success" />
+            <a href="@Url.Action("Index")" class="btn btn-primary">Quay lại</a>
+        </p>
+    </div>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.MaNhaSanXuat)
+
+    <div class="form-group">
+
+        <div class="col-md-10">
+            <img src="~/Image/@Model.Anh" alt="Hình ảnh" style="max-width: 150px; max-height: 150px; border: 1px solid #000;" />
+        </div>
+    </div>
+    <div class="form-group">
+        Đổi ảnh
+        <div class="col-md-10">
+            <input type="file" name="Anh" id="Anh" />
+        </div>
+    </div>
+    <div class="form-group">
+        Tên nhà sản xuất
+        <div class="col-md-10">
+            @Html.TextAreaFor(model => model.TenNhaSanXuat,  new { @class = "form-control",@rows=1 })
+            @Html.ValidationMessageFor(model => model.TenNhaSanXuat, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        Mã nhà sản xuất
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.MaNhaSanXuat, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.MaNhaSanXuat, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        Ghi chú
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.GhiChu,  new { @class = "form-control",@rows=10 })
+            @Html.ValidationMessageFor(model => model.GhiChu, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+</div>
+}
+
+<style>
+    .input, select, textarea {
+        max-width: 1000px;
+    }
+</style>

@@ -1,0 +1,51 @@
+﻿@model DoGiaDung_TuanKiet.Models.LoaiSanPham
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <h2>Chi tiết thông tin loại sản phẩm</h2>
+    <p>
+        @Html.ActionLink("Sửa", "Edit", new { id = Model.MaLoaiSanPham }, new { @class = "btn btn-danger" })
+        @Html.ActionLink("Quay lại", "Index", null, new { @class = "btn btn-primary" })
+
+    </p>
+
+</div>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dd>
+            <img src="~/Image/@Model.Anh" alt="Hình ảnh" style="max-width: 400px; max-height: 400px; border: 1px solid #000;" />
+        </dd>
+        <dt>
+            Tên loại sản phẩm
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenLoaiSanPham)
+        </dd>
+
+        <dt>
+           Mã loại sản phẩm
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaLoaiSanPham)
+        </dd>
+
+        <dt>
+            Ghi chú
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GhiChu)
+        </dd>
+
+    </dl>
+</div>

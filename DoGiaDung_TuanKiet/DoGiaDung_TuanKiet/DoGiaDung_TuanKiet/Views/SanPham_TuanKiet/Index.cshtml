@@ -1,0 +1,93 @@
+﻿@model IEnumerable<DoGiaDung_TuanKiet.Models.SanPham>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <h2>Danh sách các sản phẩm</h2>
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div id="successAlert" class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+        <script>
+            $(document).ready(function () {
+                // Ẩn thông báo sau 5 giây
+                setTimeout(function () {
+                    $("#successAlert").fadeOut();
+                }, 5000); // Thời gian đặt là 5 giây
+            });
+        </script>
+    }
+    <p><a href="@Url.Action("Create")" class="btn btn-warning">Thêm sản phẩm mới</a></p>
+</div>
+
+
+
+
+
+
+
+
+<img src="~/Image/banner1.png" style="width:1314px; margin:0 auto; margin-left:-12px;" />
+<div class="row" style="border: 0.5em solid #f80000;">
+    @foreach (var item in Model)
+    {
+
+        <div class="col-sm-3 sanpham" style="text-align: center; padding-top: 20px; padding-bottom: 20px; border: 0.5em solid #f80000;">
+            <a href="@Url.Action("Details", new { id = item.MaSanPham })">
+                <img src="~/Image/@item.Anh" alt="Hình ảnh" style="max-width: 270px; max-height: 270px;" />
+            </a>
+            <div style="margin-top:10px;" class="ten-sanpham">
+                <p>@Html.DisplayFor(modelItem => item.TenSanPham)</p>
+            </div>
+            <div style="color:red;font-weight:bold; margin-top:4px;">
+                @{
+                    // Kiểm tra nếu GiaTien không null
+                    if (item.GiaTien != null)
+                    {
+                        // Chuyển đổi GiaTien thành số nguyên
+                        int giaTienNguyen = (int)item.GiaTien;
+                        string formattedGiaTien = giaTienNguyen.ToString("N0");
+                        // Thay đổi dấu phẩy thành dấu chấm
+                        string giaTienWithDot = formattedGiaTien.Replace(",", ".");
+                        // Hiển thị giá tiền với ký hiệu ₫
+                        @($"{giaTienWithDot}₫")
+                    }
+                    else
+                    {
+                        // Nếu GiaTien là null, có thể hiển thị một thông báo hoặc giá trị mặc định khác
+                        @("")
+                    }
+                }
+            </div>
+
+        </div>
+    }
+</div>
+
+<style>
+
+    .sanpham:hover img {
+        transform: translateY(-5px);
+    }
+
+    .sanpham:hover p {
+        color: deepskyblue;
+    }
+</style>
+
+
+<script>
+    function submitForm() {
+        document.getElementById("hiddenButton").click();
+    }
+</script>

@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TuanKiet</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner ">
+            <div class="carousel-item active" style="background-color: rgb(224, 27, 34);">
+                <img src="/Image/slide4.jpg" class="d-block w-75 mx-auto" alt="...">
+            </div>
+            <div class="carousel-item" style="background-color: rgb(0, 76, 198); ">
+                <img src="/Image/slide5.jpg" class="d-block w-75 mx-auto" alt="...">
+            </div>
+
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-dark pt-0 mt-0" style="background-color: #4a90e2">
+        <img src="~/Image/header-trai.png" />
+        <div class="container-fluid">
+            <a class="navbar-brand mt-1 ms-3" href="@Url.Action("Index", "Home")">
+                <img src="~/Image/logo.png" alt="TuanKiet" style="width:63px" />
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse ms-2" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item dropdown active">
+                        <a class="nav-link dropdown-toggle active" href="@Url.Action("Index", "SanPham_TuanKiet")"  >
+                            Sản phẩm
+                        </a>
+                        @{ Html.RenderAction("Index", "Menu");}
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link active" href="@Url.Action("Index", "LoaiSanPham_TuanKiet")">Loại sản phẩm</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link active" href="@Url.Action("Index", "NhaSanXuat_TuanKiet")">Nhà sản xuất</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link active" href="@Url.Action("Index", "Mau_TuanKiet")">Màu</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link active" href="@Url.Action("Index", "XuatXu_TuanKiet")">Xuất xứ</a>
+                    </li>
+                </ul>
+                <form class="d-flex me-5" role="search" action="@Url.Action("Search", "SanPham_TuanKiet")" method="get">
+                    <input class="form-control me-2" type="search" placeholder="Bạn tìm sản phẩm gì..." aria-label="Search" name="searchTerm">
+                    <button class="btn btn-danger" type="submit">Tìm</button>
+                </form>
+            </div>
+        </div>
+        <img src="~/Image/header-phai.png" />
+    </nav>
+
+    <img src="~/Image/banner.jpg" />
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Trang web này được viết bởi Nguyễn Hùng Tuấn Kiệt - 63132184</p>
+        </footer>
+    </div>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <script>
+        $(document).ready(function () {
+            $('.nav-item.dropdown').hover(function () {
+                console.log('Hover In');
+                $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
+            }, function () {
+                console.log('Hover Out');
+                $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
+            });
+        });
+
+    </script>
+
+</body>
+</html>
