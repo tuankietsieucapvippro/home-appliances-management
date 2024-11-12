@@ -10,7 +10,7 @@ The goal of this program is to help appliance stores manage their inventory effe
 
 * Sql server
 * Asp.net mvc
-* Html / css
+* Html / Css
 * Bootstrap
 
 ### 3 Project Structure
@@ -19,7 +19,8 @@ database
 
 ![image](https://github.com/user-attachments/assets/809f7d37-3cb9-4d55-835a-c8f7053a8c83)
 
-
+* *qldogiadungdbfull.sql*: is a code to create a database written in SQL.
+* *DoGiaDung_TuanKiet.sln*: is a main program to run the project."
 
 ### 4 Usage
 
