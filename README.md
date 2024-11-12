@@ -20,13 +20,13 @@ database
 ![image](https://github.com/user-attachments/assets/809f7d37-3cb9-4d55-835a-c8f7053a8c83)
 
 * *qldogiadungdbfull.sql*: is a code to create a database written in SQL.
-* *DoGiaDung_TuanKiet.sln*: is a main program to run the project."
+* *DoGiaDung_TuanKiet.sln*: is a main program to run the project.
 
 ### 4 Usage
 
 * Dowload the project and open it with Visual Studio.
 * Set up the database through SQL Server.
-* "Modify the data source according to your machine name in the Web.config file."
+* Modify the data source according to your machine name in the Web.config file.
 * Run the Index.cshtml in the Views/Home and experience it.
   
 ![image](https://github.com/user-attachments/assets/4fec455f-bfb1-4e57-b956-1e5b3291c974)
