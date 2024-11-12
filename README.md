@@ -24,17 +24,17 @@ database
 
 ### 4 Usage
 
-* Dowload project
-* Install library: OpenCV, face_recognition
-* Add student face image to recognize into *pic2* folder and save name of image is name of student
-* Run *face_recognition.py* to roll-call
-<img width="929" alt="anh_test" src="https://github.com/n-tan-adonis/roll_call/assets/127659484/2242a627-48ae-448a-9a74-91259ff3d849">
-
-* The program will automatically save the names of faces appearing in the frame. The program only saves the names and datetime of people who have not been saved in the text file
-* Press "e" to finish running the program
-
+* Dowload the project and open it with Visual Studio.
+* Set up the database through SQL Server.
+* Modify the data source according to your machine name.
+* Run the Index.cshtml in the View and experience it.
+  
+![image](https://github.com/user-attachments/assets/4fec455f-bfb1-4e57-b956-1e5b3291c974)
 
 ### 5 Result
+Some actual images
+![image](https://github.com/user-attachments/assets/5800b4c4-1cef-4cb9-b9a9-757623706c1e)
+![image](https://github.com/user-attachments/assets/c9b2b7bb-1934-4506-b0a0-f008c4a51ca7)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/56189f8a-8fe3-42f8-87e7-f2ee54333f3c">
 
-<img width="383" alt="text_file" src="https://github.com/n-tan-adonis/roll_call/assets/127659484/1738c616-dd45-44d1-ac20-7756d49478f0">
 
